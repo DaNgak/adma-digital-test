@@ -1,0 +1,55 @@
+.carousel-indicators [data-bs-target] {
+    background-color: #4e73df;
+}
+
+@media (max-width: 576px) {
+    .w-sm-100 {
+        width: 100%;
+    }
+
+    .fs-sm-1 {
+        font-size: 0.5rem;
+    }
+    .fs-sm-2 {
+        font-size: 1rem;
+    }
+    .fs-sm-3 {
+        font-size: 1.5rem;
+    }
+
+    .mb-sm-1 {
+        margin-bottom: 0.5rem !important;
+    }
+    .mb-sm-2 {
+        margin-bottom: 1rem !important;
+    }
+    .mb-sm-3 {
+        margin-bottom: 1.5rem !important;
+    }
+    .mb-sm-4 {
+        margin-bottom: 2rem !important;
+    }
+    .mb-sm-5 {
+        margin-bottom: 2.5rem !important;
+    }
+
+    .m-sm-0 {
+        margin: 0 !important;
+    }
+
+    .order-sm-0 {
+        order: 0 !important;
+    }
+
+    .order-sm-1 {
+        order: 1 !important;
+    }
+
+    .flex-sm-column {
+        flex-direction: column;
+    }
+
+    .mx-sm-auto-custom {
+        margin: 0 auto;
+    }
+}
